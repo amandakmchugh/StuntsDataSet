@@ -16,11 +16,7 @@ img {display: flex; max-width: 100%}
   .mobile-only {
           display:none !important;
         }
-    @media only screen and (max-width: 1026px) {
-        .tablet-only {
-            display:none !important;
-        }
-          @media only screen and (max-width: 1027px) {
+          @media only screen and (max-width: 1026px) {
         .desktop-only {
             display:none !important;
         }
