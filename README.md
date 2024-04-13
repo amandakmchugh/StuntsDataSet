@@ -1,18 +1,15 @@
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
+<head>
     <meta charset="utf-8">
     <title>In Stunts the Concerns Over Ai Just Don’t Line Up</title>
     <link rel="stylesheet" href="style-sheet.css">
-  </head>
-  <body>
-    <div class="main">
-      <h1>
-        <center>In Stunts the Concerns Over Ai Just Don’t Line Up</center>
-      </h1>
-      <h3><center><i>Ai and 3D scan technology is a top concern amongst stunt professionals, but few have met with any challenges because of it.</i></center></h3>
-      <p>By: Amanda Kary McHugh</p>
+</head>
+<body>
+    <div class="container">
+        <h1><center>In Stunts the Concerns Over Ai Just Don’t Line Up</center></h1>
+        <h3><center><i>Ai and 3D scan technology is a top concern amongst stunt professionals, but few have met with any challenges because of it.</i></center></h3>
+        <p>By: Amanda Kary McHugh</p>
       <p>Artificial intelligence has become a top concern for many in the last year. This makes sense, given that the <a href=https://www.weforum.org/reports/the-future-of-jobs-report-2023/digest/>World Economic Forum</a> has estimated that approximately 87 million jobs could be automated by 2027. It was a top concern amongst writers during the WGA strikes last year, given that ChatGPT has already shown to be able to produce entire scripts and other writing jobs, such as copywriting, have <a href=https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/>already taken a hit</a>.
 </p>
 <p>SAG-AFTRA members – which includes actors, stunt professionals and voiceover artists – have also had their concerns with Ai potentially taking their jobs. With deepfakes such as the life-life <a href=https://www.cnn.com/2021/08/06/tech/tom-cruise-deepfake-tiktok-company/index.html>Tom Cruise TikTok video</a> getting a new lease on the internet during the strikes, the concern with what visual effects can do with Ai, has had members concerned about 3D scan technology.</p>
